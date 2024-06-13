@@ -1,0 +1,189 @@
+.wrapper {
+    display: grid;
+    background-color: brown;
+  }
+
+  
+.Header {
+  background-color: black;
+  color: white;
+  justify-content: center;
+  text-align: center;
+
+}
+* 
+{
+  margin: 0;
+  padding: 0;
+  
+}
+.HeaderDown {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.center{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.center1 {
+  margin: 23px;
+}
+
+.center2 {
+  margin: 23px;
+}
+
+.center3 {
+  margin: 23px;
+}
+
+.center4 {
+  margin: 23px;
+}
+
+.center5 {
+  margin: 23px;
+}
+.svgtest{
+  padding-right: 20px;
+}
+
+.HTEST{
+
+  size: 20PX;
+}
+
+.HTEST1{
+
+  size: 20PX;
+  padding-bottom: 20px;
+}
+
+.Content {
+  background-image: url(./picture/bacgroung.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-content: center;
+  height: 810px;
+  width: 1440px;
+  padding-top: 50px;
+}
+.htest1 {
+  padding-top: 13px;
+  padding-bottom: 22px;
+}
+.Btn{
+  /* Rectangle */
+
+
+background: #FF4A32;
+color: white;
+border-radius: 35px;
+padding: 10px;
+border: 0;
+margin: 6px;
+
+}
+.medium{
+  background-color: black;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-content: space-around;
+  padding-bottom: 17px;
+  padding-top: 18px;
+}
+
+.Content1 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-content: center;
+  height: 210px;
+  width: 1440px;
+  padding-top: 50px;
+}
+
+.picgrid {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  align-content: center;
+
+}
+
+.pic{
+  width: 580px;
+  height: 580px;
+  padding: 10px;
+}
+
+.Btn1{
+  /* Rectangle */
+
+
+background: #FF4A32;
+color: white;
+border-radius: 35px;
+padding: 10px;
+border: 0;
+margin: 6px;
+padding-left: 66px;
+padding-right: 66px;
+
+}
+
+.htest2 {
+  padding-top: 13px;
+
+}
+
+.pic1{
+  width: 380px;
+  height: 380px;
+  padding: 10px;
+}
+.pic2{
+  width: 340px;
+  height: 245px;
+  padding: 10px;
+}
+.pic3{
+  width: 480px;
+  height: 480px;
+  padding: 0px;
+}
+
+.pic4{
+  max-width: 540px;
+  max-height: 300px;
+  padding: 10px;
+}
+.pic5{
+  width: 1440px;
+  height: 405px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.pic6{
+  width: 1440px;
+  height: 706px;
+  padding: 0px;
+}
